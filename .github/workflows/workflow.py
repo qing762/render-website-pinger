@@ -18,6 +18,5 @@ def ping(host):
 
 
 if __name__ == "__main__":
-    while True:
-        print(ping("https://qing-website.onrender.com/"))
-        time.sleep(600)
+    print(ping("https://qing-website.onrender.com/"))
+    time.sleep(600)
