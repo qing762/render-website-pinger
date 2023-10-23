@@ -1,6 +1,5 @@
 import platform
 import subprocess
-import time
 
 
 def ping(host):
@@ -12,4 +11,3 @@ def ping(host):
 if __name__ == "__main__":
     while True:
         print(ping("qing-website.onrender.com"))
-        time.sleep(600)
