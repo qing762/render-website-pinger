@@ -19,4 +19,4 @@ def ping(host):
 
 if __name__ == "__main__":
     print(ping("https://qing-website.onrender.com/"))
-    time.sleep(600)
+    exit()
