@@ -1,11 +1,13 @@
 > **Warning**
 > Please be advised that usage of this tool is entirely at your own risk. I assumes no responsibility for any adverse consequences that may arise from its use, and users are encouraged to exercise caution and exercise their own judgment in utilizing this tool.
 
+
+
 # Render-Website-Pinger
 
-Ping any website (In this case, websites hosted on [Render](https://render.com)) every 10 minutes (to avoid [Render](https://render.com) website with free plan spinning down.)
+An alternative to [UpTimeRobot](https://uptimerobot.com/). Ping any website (In this case, websites hosted on [Render](https://render.com)) every 10 minutes (to avoid [Render](https://render.com) website with free plan spinning down.)
 
-# Why?
+## Why?
 
 ([Source](https://render.com/docs/free#free-web-services)) Render spins down a free web service that goes 15 minutes without receiving inbound traffic. Render spins the service back up whenever it next receives a request to process.
 
