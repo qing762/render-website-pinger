@@ -3,7 +3,7 @@
 
 # Render-Website-Pinger
 
-Ping any website (In this case, websites hosted on [Render](https://render.com)) every 10 minutes (to avoid website spinning down. (for [Render](https://render.com) free plan)
+Ping any website (In this case, websites hosted on [Render](https://render.com)) every 10 minutes (to avoid [Render](https://render.com) website with free plan spinning down.)
 
 # Why?
 
