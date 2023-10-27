@@ -4,7 +4,7 @@ import requests
 
 
 def ping(host):
-    if validators.url(host) == True:
+    if validators.url(host) is True:
         r = requests.get(host)
         return r.status_code
     else:

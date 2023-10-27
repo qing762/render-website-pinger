@@ -3,7 +3,7 @@
 
 # Render-Website-Pinger
 
-Ping a website hosted on [Render](https://render.com) every 10 minutes to avoid website spinning down. (for free plan)
+Ping any website (In this case, websites hosted on [Render](https://render.com)) every 10 minutes (to avoid website spinning down. (for [Render](https://render.com) free plan))
 
 # Why?
 
@@ -41,7 +41,7 @@ Start the server
 
 # Automation
 
-To automate it, instead of running `main.py`, run `automate.py`
+To automate it, instead of running `main.py`, run `automate.py`.
 
 
 

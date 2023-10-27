@@ -6,7 +6,7 @@ website = input("Please enter your website domain: ")
 
 
 def ping(host):
-    if validators.url(host) == True:
+    if validators.url(host) is True:
         r = requests.get(host)
         return r.status_code
     else:
