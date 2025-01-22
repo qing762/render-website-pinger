@@ -13,7 +13,7 @@ def home():
 
 
 def run():
-    app.run(host="0.0.0.0", port=8080)  # 127.0.0.1 or ::
+    app.run(host="0.0.0.0", port=8080)
 
 
 def keep_alive():
@@ -33,6 +33,6 @@ def ping(host):
 
 if __name__ == "__main__":
     while True:
-        print(ping("https://qing-website.onrender.com/"))
+        print(ping("https://example.com/"))  # Replace "https://example.com/" with your website domain
         time.sleep(600)
         keep_alive()

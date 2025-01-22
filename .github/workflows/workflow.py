@@ -13,5 +13,5 @@ def ping(host):
 
 
 if __name__ == "__main__":
-    print(ping("https://qing-website.onrender.com/"))
+    print(ping("https://qing762.is-a.dev/"))
     exit()
